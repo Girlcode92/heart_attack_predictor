@@ -1,6 +1,24 @@
 # heart_attack_predictor
 
+## Our Model
+We built a supervised model to predict the likelihood of a heart attack based on the data given.
 
+#### The Data
+- Age of the patient (34 - 77)
+- Gender of patient (0 = F, 1  = M)
+- Chest Pain Type
+- Typical angina (0): Chest pain or discomfort that is provoked by discomfort/emotional stress relieved by rest. Squeezing like sensation in chest. 
+- Atypical angina (1): Chest pain that doesn't meet the criteria for typical angina, abnormal chest pain.
+- Non-anginal (2): Chest pain in patients without heart disease. 
+- Asymptomatic (3): Chest pain with no symptoms of heart attack. 
+- Resting Blood Pressure
+- Cholesterol level
+- Fasting blood sugar: Measures the amount of glucose in the blood when one hasn't eaten anything. 
+- Resting electrocardiographic results: Electrical activity of your heart while you are at rest. It provides information about your heart rate and rhythm, and can also show if there is enlargement of the heart, or evidence of a previous heart attack.
+- Max heart rate achieved: Greatest number of beats per minute your heart can possibly reach.
+- Exercise induced angina (1 = Y, 0 = N): Pain in the chest that comes on with exercise. 
+- Oldpeak: Exercise induced segmented depression, used for reliable ECG finding. 
+- Output (0 = less chance of HA, 1 = high chance of HA)
 
 
 
