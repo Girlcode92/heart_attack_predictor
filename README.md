@@ -57,4 +57,6 @@ We built a supervised model to predict the likelihood of a heart attack based on
 
 ![image](https://user-images.githubusercontent.com/62813833/231886850-b900cda1-2cc9-40a1-9eb5-95ee841d3707.png)
 
+
+link: https://public.tableau.com/views/HeartAttackDataAnalysis-Project4/HeartAttackAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
   
