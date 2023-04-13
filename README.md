@@ -4,17 +4,17 @@
 
 
 
-### Visualizations: 
+## Visualizations
 
-- Our Sampleset at a glance
+#### Our Sampleset at a glance
 
 ![image](https://user-images.githubusercontent.com/62813833/231885771-1c83b216-ac56-4d53-8621-1e5f6d606b81.png)
 
-- Cholesterol vs Age and Gender
+#### Cholesterol vs Age and Gender
 
 ![image](https://user-images.githubusercontent.com/62813833/231885961-b9046420-45de-4873-b6ac-df19e565a034.png)
 
-- Chest Pain by Age and Gender
+#### Chest Pain by Age and Gender
 
 ![image](https://user-images.githubusercontent.com/62813833/231886008-e6809f59-4781-4444-9174-4506c33e6e0d.png)
 
@@ -25,7 +25,8 @@
   - asymptomatic means that a person may have few, if any, symptoms or may have symptoms not recognized as a heart attack.
   
   
-- Age and Gender vs.Chance of Heart Disease
+#### Age and Gender vs.Chance of Heart Disease
+
 ![image](https://user-images.githubusercontent.com/62813833/231886850-b900cda1-2cc9-40a1-9eb5-95ee841d3707.png)
 
   
