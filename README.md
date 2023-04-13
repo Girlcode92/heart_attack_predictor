@@ -21,6 +21,14 @@ We built a supervised model to predict the likelihood of a heart attack based on
 - Output (0 = less chance of HA, 1 = high chance of HA)
 
 
+### Model Results
+
+- Pre-Hypertuning: 
+![image](https://user-images.githubusercontent.com/62813833/231887899-fa682199-b871-4cda-b61c-1783dc6633b4.png)
+
+- Post-Hypertuning:
+![image](https://user-images.githubusercontent.com/62813833/231887999-6095fa04-fe47-4ce3-bf37-2e463dba05a5.png)
+
 
 ## Visualizations
 
