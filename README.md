@@ -1,5 +1,7 @@
 # heart_attack_predictor
 
+![image](https://user-images.githubusercontent.com/62813833/231906565-60fc81c5-d6fd-4845-871b-c0d0229c1ed7.png)
+
 ## Our Model
 We built a supervised model to predict the likelihood of a heart attack based on the data given.
 
