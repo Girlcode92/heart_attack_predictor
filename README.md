@@ -44,14 +44,27 @@ We built a supervised model to predict the likelihood of a heart attack based on
 
 ![image](https://user-images.githubusercontent.com/62813833/231885771-1c83b216-ac56-4d53-8621-1e5f6d606b81.png)
 
+- Dashboard of dataset metrics
+        - Dataset population: 303
+        - More males than females
+        - Most people in the dataset had high or borderline high cholesterol
+        - Most people were at risk for or already had high blood pressure (hypertension)
+        - Typical angina was the most common chest pain type
+        - People in the dataset had a higher chance of heart disease
+
 #### Cholesterol vs. Age and Gender
 
 ![image](https://user-images.githubusercontent.com/62813833/231887132-3f4018e1-bddb-442b-a6fe-50dfadb1cc12.png)
+
+- More in the age range of 55-64 had high cholesterol compared to women
+- More women in the age range of 65-74 had borderline high cholesterol compared to men
 
 
 #### Chest Pain vs. Age and Gender
 
 ![image](https://user-images.githubusercontent.com/62813833/231886008-e6809f59-4781-4444-9174-4506c33e6e0d.png)
+
+- more people experienced typical angina as their chest pain type
 
 
   - typical angina chest pain is a pressure or squeezing like sensation that is usually caused when your heart muscle doesn't get an adequate supply of oxygenated blood, it is a chest pain caused by heart disease.
@@ -62,6 +75,9 @@ We built a supervised model to predict the likelihood of a heart attack based on
 #### Age and Gender vs. Chance of Heart Disease
 
 ![image](https://user-images.githubusercontent.com/62813833/231886850-b900cda1-2cc9-40a1-9eb5-95ee841d3707.png)
+
+- More women had a lesser chance of heart disease than men
+- Women in the age range of 65-74 had a higher chance of developing heart disease
 
 
 link: https://public.tableau.com/views/HeartAttackDataAnalysis-Project4/HeartAttackAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
