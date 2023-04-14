@@ -3,7 +3,11 @@
 ![image](https://user-images.githubusercontent.com/62813833/231906565-60fc81c5-d6fd-4845-871b-c0d0229c1ed7.png)
 
 ## Our Model
-We built a supervised model to predict the likelihood of a heart attack based on the data given.
+We built a supervised model to predict the likelihood of a heart attack based on the data given. Within our model we used logisitic regression. 
+- Developing the model for better accuracy:
+    - Output column was used to train the model by dropping column for test data
+    - Feature Selection of the top 5 features based on the chi-squared test & Regularization
+    - Using hyperparamenter tuning, best hyperparameters: {'C': 0.1, 'penalty': 'l2'} Best cross-validation accuracy score: 0.8150724637681158
 
 #### The Data
 - Age of the patient (34 - 77)
