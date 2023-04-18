@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/62813833/231906565-60fc81c5-d6fd-4845-871b-c0d0229c1ed7.png)
 
+By: Heather Robson, Aiden Lee, Daniel Andreou, Angelica Hussar, Enrique Bouche. 
+
 ## Our Model
 We built a supervised model to predict the likelihood of a heart attack based on the data given. Within our model we used logisitic regression. 
 - Developing the model for better accuracy:
@@ -80,5 +82,7 @@ We built a supervised model to predict the likelihood of a heart attack based on
 - Women in the age range of 65-74 had a higher chance of developing heart disease
 
 
-link: https://public.tableau.com/views/HeartAttackDataAnalysis-Project4/HeartAttackAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+link: https://public.tableau.com/views/HeartAttackDataAnalysis-Project4/HeartAttackAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link (data used in presentation). 
+
+link: https://public.tableau.com/app/profile/aiden.lee2627/viz/heart_final_16812399697530/chestpaindash?publish=yes (other data we had we did not use for sake of presentation, that was interesting). 
   
